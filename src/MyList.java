@@ -73,8 +73,8 @@ public class MyList {
             System.out.println("Welcome to your shopping cart");
             System.out.println("What would you like to do today?");
             System.out.println("> list / List items");
-            System.out.println("> add / Add items into shopping list");
-            System.out.println("> delete / Delete items from shopping list");
-            System.out.println("> exit / Exit from shopping list");
+            System.out.println("> add / Add items into shopping cart");
+            System.out.println("> delete / Delete items from shopping cart");
+            System.out.println("> exit / Exit from shopping cart");
         }
     }
